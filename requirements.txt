@@ -1,0 +1,8 @@
+pandas
+yt-dlp
+nltk
+Sastrawi
+wordcloud
+matplotlib
+transformers
+torch
